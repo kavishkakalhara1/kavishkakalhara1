@@ -11,10 +11,10 @@
 
 ### 👨‍💻 About Me
 - 🎓 Computer Engineering Undergraduate  
-- 🔭 Currently working on **Full Stack + IoT + AI-based Systems**
-- 🌱 Learning **Spring Boot, Advanced React, System Design, DevOps**
+- 🔭 Currently working on **Full Stack + IoT + Agentic AI Systems**
+- 🌱 Learning **Advanced System Design, Multi-Agent Orchestration, DevOps**
 - 🧠 Interested in **Cybersecurity, Distributed Systems & Edge Computing**
-- 💬 Ask me about **React, MERN Stack, System Architecture**
+- 💬 Ask me about **MERN Stack, LangChain, System Architecture**
 - 📫 Reach me: **kavishkakalharapro@gmail.com**
 
 ---
@@ -49,9 +49,16 @@
   <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,spring,tailwind,flutter" />
 </p>
 
-#### 🗄️ Databases, Cloud & Tools
+#### 🤖 AI & Automation Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,docker,linux,arduino,figma" />
+  <img src="https://skillicons.dev/icons?i=n8n" height="40" alt="n8n" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white" height="40" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=nodes&logoColor=FFE169" height="40" alt="LangGraph" />
+</p>
+
+#### 🗄️ Databases, DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,docker,k8s,linux,arduino,figma" />
 </p>
 
 ---
@@ -65,10 +72,10 @@
 ---
 
 ### 🚀 Featured Interests
-- 🔐 AI-driven Cybersecurity Systems  
-- 🌐 IoT & Edge Computing (Raspberry Pi, Smart Devices)  
-- ⚙️ DevOps (Docker, CI/CD, Kubernetes)  
-- 🤖 Intelligent Automation & Chatbots  
+- 🔐 AI-driven Cybersecurity & Self-Healing Systems  
+- 🤖 Agentic Workflows & Multi-Agent Orchestration (LangGraph, LangChain)
+- 🌐 IoT & Edge Computing (Raspberry Pi, Network Anomaly Detection)  
+- ⚙️ DevOps & Cloud Architecture (Docker, Kubernetes, CI/CD)  
 
 ---
 
