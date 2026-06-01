@@ -38,8 +38,20 @@
 ---
 
 ### ⚒️ Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,spring,mongodb,mysql,sqlite,docker,linux,python,c,cpp,cs,js,html,css,tailwind,firebase,figma,flutter,arduino" />
+
+#### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,c,cpp,cs,html,css" />
+</p>
+
+#### 🚀 Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,spring,tailwind,flutter" />
+</p>
+
+#### 🗄️ Databases, Cloud & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,docker,linux,arduino,figma" />
 </p>
 
 ---
