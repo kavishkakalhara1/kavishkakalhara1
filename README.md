@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Computer Engineering Undergraduate  
+- 🎓 Final Year Computer Engineering Undergraduate  
 - 🔭 Currently working on **Full Stack + IoT + Agentic AI Systems**
 - 🌱 Learning **Advanced System Design, Multi-Agent Orchestration, DevOps**
 - 🧠 Interested in **Cybersecurity, Distributed Systems & Edge Computing**
